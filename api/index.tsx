@@ -89,7 +89,10 @@ app.frame('/', (c) => {
       </Button.Link>,
       // Tombol "Cast It" yang sudah ada
       <Button.Link
-        href="https://warpcast.com/~/compose?text=Claiming my @socialtoken airdrop and crediting @0xhen with my social airdrop for being a good friend%20&embeds[]=https://social-claimer-frame.vercel.app/api"
+        href="https://warpcast.com/~/compose?text=I claim $FDOG reward using Frame by @0xhen
+Please claim your reward
+
+👉 Follow @farcaster-dogg%20&embeds[]=https://claim-fdog-frame.vercel.app/api"
       >
         🕵‍♀Share with friends
       </Button.Link>,
