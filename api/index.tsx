@@ -90,9 +90,7 @@ app.frame('/', (c) => {
       // Tombol "Cast It" yang sudah ada
       <Button.Link
         href="https://warpcast.com/~/compose?text=I claim $FDOG reward using Frame by @0xhen
-Please claim your reward
-
-👉 Follow @farcaster-dogg%20&embeds[]=https://claim-fdog-frame.vercel.app/api"
+%20Please claim your reward 👉 Follow @farcaster-dogg&embeds[]=https://claim-fdog-frame.vercel.app/api"
       >
         🕵‍♀Share with friends
       </Button.Link>,
